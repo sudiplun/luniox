@@ -1,7 +1,7 @@
 ---
 title: "Daily use Apps in Linux"
 author: Sudip Lun
-pubDatetime: 2023-06-05T14:12:23
+pubDatetime: 2023-06-05T14:12:23Z
 postSlug: usefull-apps-in-linux
 featured: false
 draft: false

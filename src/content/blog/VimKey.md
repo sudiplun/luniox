@@ -1,7 +1,7 @@
 ---
 title: "copy & cut in Vim"
 author: Sudip Lun
-pubDatetime: 2023-06-05T19:24:23
+pubDatetime: 2023-06-05T19:24:23Z
 postSlug: cut-and-yank-vim
 featured: false
 draft: false

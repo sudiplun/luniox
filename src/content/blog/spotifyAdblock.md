@@ -1,7 +1,7 @@
 ---
 title: "How to install spotify adblock"
 author: Sudip Lun
-pubDatetime: 2023-06-05T14:24:23
+pubDatetime: 2023-06-05T14:24:23Z
 postSlug: how-to-install-adblock-on-linux
 featured: true
 draft: false
