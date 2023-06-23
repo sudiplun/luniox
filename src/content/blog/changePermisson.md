@@ -1,7 +1,7 @@
 ---
 author: Sudip Lun
 pubDatetime: 2023-06-13T15:22:00Z
-title: "Change file/folder permission/ownership in Linux"
+title: "Change file folder permission ownership in Linux"
 postSlug: ownership-permission
 featured: false
 draft: false
