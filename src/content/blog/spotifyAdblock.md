@@ -67,9 +67,9 @@ make
 sudo make install
 ```
 
-LOOKS LIKE
+<!-- LOOKS LIKE -->
 
-<img title="" alt="Image" width="257" height="200" data-align="inline">
+<!-- <img title="" alt="Image" width="257" height="200" data-align="inline"> -->
 
 You can integrate it with your desktop environment (create desktop icon.)
 
