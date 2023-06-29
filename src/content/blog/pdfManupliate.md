@@ -3,7 +3,7 @@ author: Sudip Lun
 pubDatetime: 2023-06-13T15:22:00Z
 title: "How to convert pdf to image to pdf on linux"
 postSlug: pdf-to-image-to-pdf-linux
-featured: true
+featured: false
 draft: false
 tags:
   - Linux
