@@ -34,8 +34,14 @@ sudo /opt/lampp/lampp start
 
 by GUI
 
+first navigate to
+
 ```bash
-sudo ./manager-linux.run
+cd /opt/lampp/
+```
+
+```bash
+sudo ./manager-linux-x64.run
 ```
 
 <u>Step 5</u>: To Stop lampp

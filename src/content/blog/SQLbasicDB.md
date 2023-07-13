@@ -168,3 +168,20 @@ SET @Result=@FirstNumber+@SeconNumber
 RETURN @Result
 END
 ```
+
+### Add FOREIGN key
+
+```sql
+ALTER TABLE EmployeeInfo
+ADD FOREIGN KEY (DepartmentId) REFERENCES Department(DepartmentId);
+```
+
+### create virtual Table
+
+```sql
+create view ViewEmployee
+as
+SELECT E.EmployeeName, E.EmployeeAddress, E.PhoneNumber, D.DepartmentName FROM  EmployeeInfo AS E INNER JOIN Department as D on E.DepartmentId = D.DepartmentId
+
+SELECT * FROM ViewEmployee;
+```

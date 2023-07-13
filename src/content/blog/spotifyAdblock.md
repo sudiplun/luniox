@@ -9,7 +9,7 @@ ogImage: "https://res.cloudinary.com/daewefkrz/image/upload/v1686503575/Blog-Ima
 tags:
   - Linux
   - Music
-description: "step by step installation works on flatpak."
+description: "step by step installation||also works on flatpak."
 ---
 
 # spotify-adblock-install
