@@ -4,7 +4,7 @@ author: Sudip Lun
 pubDatetime: 2023-06-19T12:34:23Z
 postSlug: how-to-install-lamp-on-fedora
 ogImage: https://res.cloudinary.com/daewefkrz/image/upload/c_scale,h_277/v1686503549/Blog-Images/Web_Development/jd8stxv3qwleikpl6qgr.webp
-featured: false
+featured: true
 draft: false
 tags: 
   - Web development

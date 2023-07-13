@@ -4,7 +4,7 @@ author: Sudip Lun
 pubDatetime: 2023-06-23T08:36:14Z
 postSlug: install-xampp-linux
 ogImage: https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png
-featured: false
+featured: true
 draft: false
 tags:
   - web development
