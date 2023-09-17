@@ -28,6 +28,14 @@ export default function Datetime({ datetime, size = "sm", className }: Props) {
 }
 
 const FormattedDatetime = ({ datetime }: { datetime: string | Date }) => {
+  const isValidDate = (date: string | Date): boolean => {
+    return !isNaN(new Date(date).getTime());
+  };
+
+  if (!isValidDate(datetime)) {
+    return null; // or handle the invalid datetime input in a desired way
+  }
+
   const myDatetime = new Date(datetime);
 
   const date = myDatetime.toLocaleDateString(LOCALE, {
