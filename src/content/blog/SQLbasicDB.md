@@ -169,6 +169,15 @@ RETURN @Result
 END
 ```
 
+After creating this function, you can use it in SQL queries like this:
+
+```sql
+-- Example of using the function
+DECLARE @SumResult INT
+SET @SumResult = dbo.FnSum(5, 7)  -- Calling the function with parameters
+SELECT @SumResult as SumResult  -- Displaying the result
+```
+
 ### Add FOREIGN key
 
 ```sql
