@@ -33,6 +33,3 @@ pnpm-debug.log*
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
-
-# obsidian
-src/content/blog/.obsidian

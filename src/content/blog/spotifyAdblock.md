@@ -1,15 +1,15 @@
 ---
-title: "How to install spotify adblock"
+title: How to install spotify adblock
 author: Sudip Lun
 pubDatetime: 2023-06-05T14:24:23Z
 postSlug: how-to-install-adblock-on-linux
 featured: true
 draft: false
-ogImage: "https://res.cloudinary.com/daewefkrz/image/upload/v1686503575/Blog-Images/Linux/fky7r70fcnrtvnx89dvx.webp"
+ogImage: https://res.cloudinary.com/daewefkrz/image/upload/v1686503575/Blog-Images/Linux/fky7r70fcnrtvnx89dvx.webp
 tags:
   - Linux
   - Music
-description: "step by step installation||also works on flatpak."
+description: step by step installation||also works on flatpak.
 ---
 
 # spotify-adblock-install

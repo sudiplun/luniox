@@ -1,15 +1,15 @@
 ---
-title: "Basic on MsSQL"
+title: Basic on MsSQL
 author: Sudip Lun
 pubDatetime: 2023-06-19T18:36:14Z
 postSlug: msSQL-basic
 ogImage: ""
 featured: false
-draft: false
+draft: true
 tags:
   - database
   - SQL
-description: "Create databse,Table and stored procedure."
+description: Create databse,Table and stored procedure.
 ---
 
 ### Create database

@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "39f64a330c6f1138",
+    "type": "split",
+    "children": [
+      {
+        "id": "717cb40cc75a1f77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f403704bb1628610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nmcliPwd.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "47d7d9dad9ce3487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nmcliPwd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4761f93f7d028e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2444ac4a0b84638f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fc54a231507d63c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2f1473be83a3039",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f10a1ff1f894dec5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0655edfaf96dcf8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "19a7b5d5b93bae2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fdc88fff25de7fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nmcliPwd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0fe9b63a9d4788b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nmcliPwd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "689cecb11d0e5df4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "35f08b8036524f7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nmcliPwd.md"
+              }
+            }
+          },
+          {
+            "id": "b6c80088ecd0d68e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f403704bb1628610",
+  "lastOpenFiles": [
+    "changePermisson.md",
+    "css_mini_course.md",
+    "grubConfigF38.md",
+    "nmcliPwd.md",
+    "LAMP.md",
+    "pdfManupliate.md",
+    "xamppInstallLinux.md",
+    "LinuxApps.md",
+    "ifuse.md",
+    "VimKey.md",
+    "Untitled.canvas",
+    "Hello.md",
+    "Templates/blogMenu.md",
+    "Templates/blogMenu.txt",
+    "Templates",
+    "Templates/blogMenu",
+    "SQLbasicDB.md",
+    "spotifyAdblock.md",
+    "Templates/blog.md"
+  ]
+}

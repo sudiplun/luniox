@@ -3,12 +3,13 @@ title: css mini course links
 author: Sudip Lun
 pubDatetime: 2023-07-13T02:34:23Z
 postSlug: css-mini-course
-ogImage: ""
+ogImage: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png
 featured: false
-draft: false
+draft: true
 tags:
-  - Web development
-description: "Just download from prathkum twitter hanlde great content of css."
+  - Web
+  - development
+description: Just download from prathkum twitter hanlde great content of css.
 ---
 
 # CSS Mini Course

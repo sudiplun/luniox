@@ -1,17 +1,15 @@
 ---
 author: Sudip Lun
 pubDatetime: 2023-06-26T14:27:00Z
-title: "Mount iPhone on your linux machince"
+title: Mount iPhone on your linux machince
 postSlug: mount-iPhone-on-linux
-featured: false
+featured: true
 draft: false
 tags:
   - linux
   - iPhone
-ogImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwus5NOJT6b3oTevs05R_Up4uMvh1cfy48pA&usqp=CAU"
-description:
-  "Mount  directories of an iOS device locally using fuse. By default the media directory is mounted, options allow to also mount the sandbox container of an app,
-  an app's documents folder or even the root filesystem on jailbroken devices."
+ogImage: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwus5NOJT6b3oTevs05R_Up4uMvh1cfy48pA&usqp=CAU
+description: Mount  directories of an iOS device locally using fuse. By default the media directory is mounted, options allow to also mount the sandbox container of an app, an app's documents folder or even the root filesystem on jailbroken devices.
 ---
 
 ## ifuse basic command
