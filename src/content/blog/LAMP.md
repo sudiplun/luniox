@@ -1,5 +1,5 @@
 ---
-title: To Install LAMP On Fedora
+title: To Install LAMP On Fedora or RHL
 author: Sudip Lun
 pubDatetime: 2023-06-19T12:34:23Z
 postSlug: how-to-install-lamp-on-fedora
@@ -15,7 +15,9 @@ tags:
 description: LAMP is an open source Web development platform that uses Linux as the operating system, Apache as the Web server, MySQL as the relational database management system and PHP As the object-oriented scripting language.
 ---
 
-**Install the Apache package**
+## Table of contents
+
+## Install the Apache package
 
 ![lamp](https://res.cloudinary.com/daewefkrz/image/upload/c_scale,h_277/v1686503549/Blog-Images/Web_Development/jd8stxv3qwleikpl6qgr.webp)
 
@@ -23,21 +25,23 @@ description: LAMP is an open source Web development platform that uses Linux as 
 sudo dnf install httpd
 ```
 
-**Start Apache service by using the below command**
+## Apache service
+
+### start
 
 ```bash
 sudo systemctl start httpd
 ```
 
-**Enable Apache service by using the below command**
+### Enable
 
-_if you want your `httpd` autostart on boot run below command._
+_if you want your `httpd` auto start on boot run below command._
 
 ```bash
 sudo systemctl enable httpd
 ```
 
-**Check Apache status by using the below command**
+### status
 
 ```bash
 sudo systemctl status httpd
@@ -47,19 +51,21 @@ sudo systemctl status httpd
 
 MariaDB is a popular open-source relational database management system (RDBMS) that is compatible with MySQL.
 
-**Install MariaDB by using the below command**
+## Install MariaDB
 
 ```bash
 sudo dnf install -y mariadb-server
 ```
 
-**Start MariaDB service by using the below command**
+## MariaDB service
+
+### start
 
 ```
 sudo systemctl start mariadb
 ```
 
-**Enable MariaDB by using the below command**
+### Enable
 
 _if you want your `mariadb` autostart on boot run below command._
 
@@ -67,7 +73,7 @@ _if you want your `mariadb` autostart on boot run below command._
 sudo systemctl enable mariadb
 ```
 
-**Check MariaDB status by using the below command**
+### status
 
 ```bash
 sudo systemctl status mariadb
@@ -75,37 +81,35 @@ sudo systemctl status mariadb
 
 ---
 
-**Install MySQL secure installation by using the below command**
+## MySQL_secure_installation
 
 ```bash
 sudo mysql_secure_installation
 ```
 
-**Open MariaDB configuration file by using the below command**
+### Open MariaDB configuration file
 
 ```bash
 sudo mysql -u root -p
 ```
 
-**Install PHP by using the below command**
+## Install PHP & modules command
 
 ```bash
 sudo dnf install php -y
 ```
 
-**Install PHP modules command by using the below command**
-
 ```bash
 dnf install -y php-cli php-fpm php-common php-mbstring php-curl php-gd php-mysqlnd php-json php-xml php-intl php-pecl-apcu php-opcache
 ```
 
-**Now open the Apache configuration file and update the php test file by using the below command**
+Now open the Apache configuration file and update the PHP test file
 
 ```bash
 vim /var/www/html/test.php
 ```
 
-<u>Additional command </u>
+## stop service
 
 To stop a service like `httpd` or `mariadb` using systemctl, you can use the following command:
 
@@ -114,6 +118,8 @@ sudo systemctl stop httpd
 ```
 
 Replace `httpd` with `mariadb` to stop it.
+
+## disable service
 
 If you want to prevent the service from starting automatically at boot time, you can disable it using the following command:
 

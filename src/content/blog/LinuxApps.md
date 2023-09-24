@@ -10,9 +10,9 @@ tags:
 description: This are my favorite applications as well as most usefull list link installation link.
 ---
 
-# Useful applications in Linux
+## Table of Contents
 
-### Development
+## Development
 
 - [neovim](https://github.com/neovim/neovim/releases/tag/stable)
 
@@ -34,7 +34,7 @@ description: This are my favorite applications as well as most usefull list link
 
   Dex to Java decompiler
 
-### Graphics
+## Graphics
 
 - [Caesium](https://github.com/larygwil/caesium-image-compressor/releases)
 
@@ -54,7 +54,7 @@ description: This are my favorite applications as well as most usefull list link
 
   Create images and edit photographs
 
-### Internet
+## Internet
 
 - [Anydesk](https://flathub.org/apps/com.anydesk.Anydesk)
 
@@ -80,7 +80,7 @@ description: This are my favorite applications as well as most usefull list link
   flatpak install flathub com.transmissionbt.Transmission
   ```
 
-### Multimedia
+## Multimedia
 
 - [EasyEffects](https://flathub.org/apps/com.github.wwmm.easyeffects)
 
@@ -110,7 +110,7 @@ description: This are my favorite applications as well as most usefull list link
 
   Media player
 
-### Office
+## Office
 
 - [Denaro](https://flathub.org/apps/org.nickvision.money)
 
@@ -120,7 +120,7 @@ description: This are my favorite applications as well as most usefull list link
 
   Manage your personal finances
 
-## for md file
+### for md file
 
 - [Obsidian](https://obsidian.md/download)
 
@@ -160,7 +160,7 @@ flatpak install flathub md.obsidian.Obsidian
 
   Calendar and Tasks
 
-### System
+## System
 
 - [Cameractrls](https://flathub.org/apps/hu.irl.cameractrls)
 

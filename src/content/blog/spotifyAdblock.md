@@ -2,7 +2,7 @@
 title: How to install spotify adblock
 author: Sudip Lun
 pubDatetime: 2023-06-05T14:24:23Z
-postSlug: how-to-install-adblock-on-linux
+postSlug: how-to-install-adblock-for-spotify-on-linux
 featured: true
 draft: false
 ogImage: https://res.cloudinary.com/daewefkrz/image/upload/v1686503575/Blog-Images/Linux/fky7r70fcnrtvnx89dvx.webp
@@ -12,48 +12,47 @@ tags:
 description: step by step installation||also works on flatpak.
 ---
 
-# spotify-adblock-install
+## Table of contents
+
+## INSTALL
+
+### BUILDING PACKAGES
 
 **Before installation of package**
-
-**INSTALL BUILDING PACKAGES**
 
 ```bash
 sudo apt-get install build-essential fakeroot devscripts
 ```
 
----
-
-**_INSTALL  RUST WITH THIS COMMANDS_**
+### RUST
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-OR [GO-TO](https://www.rust-lang.org/tools/install)
-**_IF YOU DON'T HAVE || INSTALL SPOTIFY CLIENT WITH THIS COMMANDS_**
+[official doc](https://www.rust-lang.org/tools/install)
 
-You will first need to configure our debian repository:
+### Spotify client
+
+IF YOU DON'T HAVE || INSTALL SPOTIFY CLIENT WITH THIS COMMANDS <br>
+**You will first need to configure our debian repository:**
 
 ```bash
 curl -sS https://download.spotify.com/debian/pubkey_7A3A762FAFD4A51F.gpg | sudo gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/spotify.gpg
 echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
 ```
 
-Then you can install the Spotify client:
+Then, you can install the Spotify client:
 
 ```bash
 sudo apt-get update && sudo apt-get install spotify-client
 ```
 
-OR GO-TO
-https://www.spotify.com/us/download/linux/
+[official doc](https://www.spotify.com/us/download/linux/)
 
----
+## spotify-adblock
 
-**_spotify-adblock_**
-
-More details on this [repo spotify-adblock](https://github.com/abba23/spotify-adblock)
+More details on this [spotify-adblock](https://github.com/abba23/spotify-adblock)
 
 ```bash
 git clone https://github.com/abba23/spotify-adblock.git
@@ -71,13 +70,17 @@ sudo make install
 
 <!-- <img title="" alt="Image" width="257" height="200" data-align="inline"> -->
 
+## desktop icon
+
+### wget
+
 You can integrate it with your desktop environment (create desktop icon.)
 
 ```bash
 wget "https://raw.githubusercontent.com/sudiplun/.desktop/main/SpotifyAdblock.desktop" -P ~/.local/share/applications
 ```
 
-## Manual
+### Manual
 
 creating a `.desktop` file (e.g. `spotifyadblock.desktop`) in `~/.local/share/applications`.
 

@@ -13,9 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nmcliPwd.md",
-                "mode": "preview",
+                "file": "ifuse.md",
+                "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "6de8b5072b685de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinuxApps.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nmcliPwd.md",
+                "file": "ifuse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nmcliPwd.md",
+                "file": "ifuse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nmcliPwd.md"
+                "file": "ifuse.md"
               }
             }
           },
@@ -169,24 +181,24 @@
   },
   "active": "f403704bb1628610",
   "lastOpenFiles": [
-    "changePermisson.md",
-    "css_mini_course.md",
-    "grubConfigF38.md",
-    "nmcliPwd.md",
+    "spotifyAdblock.md",
     "LAMP.md",
+    "LinuxApps.md",
+    "css_mini_course.md",
+    "changePermisson.md",
+    "nmcliPwd.md",
     "pdfManupliate.md",
     "xamppInstallLinux.md",
-    "LinuxApps.md",
-    "ifuse.md",
     "VimKey.md",
+    "SQLbasicDB.md",
+    "ifuse.md",
+    "grubConfigF38.md",
     "Untitled.canvas",
     "Hello.md",
     "Templates/blogMenu.md",
     "Templates/blogMenu.txt",
     "Templates",
     "Templates/blogMenu",
-    "SQLbasicDB.md",
-    "spotifyAdblock.md",
     "Templates/blog.md"
   ]
 }

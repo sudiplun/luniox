@@ -1,9 +1,9 @@
 ---
+title: Mount iPhone on your linux machince
 author: Sudip Lun
 pubDatetime: 2023-06-26T14:27:00Z
-title: Mount iPhone on your linux machince
 postSlug: mount-iPhone-on-linux
-featured: true
+featured: false
 draft: false
 tags:
   - linux
@@ -12,23 +12,33 @@ ogImage: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwus5NOJT6b3oTevs
 description: Mount  directories of an iOS device locally using fuse. By default the media directory is mounted, options allow to also mount the sandbox container of an app, an app's documents folder or even the root filesystem on jailbroken devices.
 ---
 
-## ifuse basic command
+## Table of contents
+
+### ifuse basic command
 
 ![ifuse](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwus5NOJT6b3oTevs05R_Up4uMvh1cfy48pA&usqp=CAU)
 
-### unmount your iphone when you have mount
+## Mount
+
+### whole iphone
+
+**if want mount all your iPhone directory**
 
 ```bash
-fusermount -u ~/iPhone
+ifuse ~/iPhone/
 ```
 
-### view that share file in yor iPhone
+### VM
+
+view that share virtual memory by Application in your iPhone
 
 ```bash
 ifuse --list-apps
 ```
 
-### mount documents in iPhone directory
+### documents
+
+**documents in iPhone directory**
 
 ```bash
 ifuse --documents com.spotify.client ~/iPhone
@@ -36,13 +46,15 @@ ifuse --documents com.spotify.client ~/iPhone
 
 This command mount virtual space share by install application to view what application `ifuse --list-apps` and see their package name `com.spotify.client`
 
-### if want mount all your iPhone directory
+## unmount
+
+**your iphone when you have mount**
 
 ```bash
-ifuse ~/iPhone/
+fusermount -u ~/iPhone
 ```
 
-##### Oh i forget your should make iPhone on home directory
+Oh,i forget you should make iPhone directory on home if you have to copy/paste
 
 ```bash
 mkdir ~/iPhone
