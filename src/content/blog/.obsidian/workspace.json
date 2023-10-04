@@ -8,38 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f403704bb1628610",
+            "id": "bbb3f5098aff2758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ifuse.md",
+                "file": "laravelnstallation.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "6de8b5072b685de8",
+            "id": "1e7185b5802679a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinuxApps.md",
+                "file": "spotifyAdblock.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47d7d9dad9ce3487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nmcliPwd.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ifuse.md",
+                "file": "laravelnstallation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ifuse.md",
+                "file": "laravelnstallation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ifuse.md"
+                "file": "laravelnstallation.md"
               }
             }
           },
@@ -179,19 +167,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f403704bb1628610",
+  "active": "bbb3f5098aff2758",
   "lastOpenFiles": [
+    "xamppInstallLinux.md",
     "spotifyAdblock.md",
+    "laravelnstallation.md",
     "LAMP.md",
+    "ifuse.md",
     "LinuxApps.md",
     "css_mini_course.md",
     "changePermisson.md",
     "nmcliPwd.md",
     "pdfManupliate.md",
-    "xamppInstallLinux.md",
     "VimKey.md",
     "SQLbasicDB.md",
-    "ifuse.md",
     "grubConfigF38.md",
     "Untitled.canvas",
     "Hello.md",
