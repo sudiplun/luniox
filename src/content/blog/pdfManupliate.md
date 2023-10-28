@@ -11,34 +11,68 @@ ogImage: ""
 description: "convert pdf to image.jpg or all jpf to pdf on any linux with command line tool."
 ---
 
-## Install command line tool pdftoppm
+## Table of contents
 
-To use the `pdftoppm` command-line tool, you need to first install `pdftoppm` which is a part of the poppler / poppler-utils / poppler-tools package. Install this package as follows depending on your Linux distribution
+## Installation `pdftoppm`
 
-`sudo apt install poppler-utils` [On Debian/Ubuntu & Mint]
-`sudo dnf install poppler-utils ` [On RHEL/CentOS & Fedora]
-`sudo zypper install poppler-tools ` [On OpenSUSE]
-`sudo pacman -S poppler  ` [On Arch Linux]
+To use the `pdftoppm` command-line tool, you need to first install `pdftoppm` which is a part of the **poppler / poppler-utils / poppler-tools** package. Install this package as follows depending on your Linux distribution
 
-### Convert PDF Document to Image
+#### On Debian
+
+```
+sudo apt install poppler-utils
+```
+
+#### On RHEL/CentOS & Fedora
+
+```
+sudo dnf install poppler-utils
+```
+
+#### On Arch Linux
+
+```
+sudo pacman -S poppler
+```
+
+### Convert
+
+#### PDF Document to Image
 
 `pdftoppm -<image_format> <pdf_filename> <image_name>`
 
 [more detials](https://www.tecmint.com/convert-pdf-to-image-in-linux-commandline/)
 
-### Imagemagick for image to pdf
+## Installation `Imagemagick` (image to pdf)
 
-`sudo apt install imagemagick` [On Debian]
+#### On Debian
 
-`sudo dnf install imagemagick` [On RHEL/CentOS & Fedora]
+```
+sudo apt install imagemagick
+```
+
+#### On RHEL/CentOS & Fedora
+
+```
+sudo dnf install imagemagick
+```
+
+### Read/Write Issue
 
 In that case, all you need is to edit the **policy.xml** file using an editor like vim.
+
 `sudo vim /etc/ImageMagick-6/policy.xml`
 
 Look for the line in the following example:
-<policy domain="coder" rights="none" pattern="PDF" />
-To fix the error, replace the rights from “none” to “read|write”
 
-### To jpg to pdf
+```bash
+<policy domain="coder" rights="none" pattern="PDF" />
+```
+
+To fix the error, replace the rights from **_“none” to “read|write”_**
+
+### Convert
+
+#### To jpg to pdf
 
 `convert *.jpg all.pdf`

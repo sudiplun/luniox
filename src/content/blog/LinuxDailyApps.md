@@ -154,8 +154,10 @@ flatpak install flathub md.obsidian.Obsidian
 
 - [Bitwarden](https://bitwarden.com/download/)
 
-  Password Manager
+  Password Manager with online store
 
+- KeepassXC
+  Password Manager with local DB and TOKP
 - [Morgen](https://www.morgen.so/onboarding/download?first=luniox&email=luniox@gmail.com)
 
   Calendar and Tasks

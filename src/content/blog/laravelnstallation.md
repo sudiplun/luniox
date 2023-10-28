@@ -1,5 +1,5 @@
 ---
-title: how to install laravel on linux?
+title: Installation Laravel on linux?
 author: Sudip Lun
 pubDatetime: 2023-10-04T14:12:23Z
 postSlug: install-laravel-on-linux

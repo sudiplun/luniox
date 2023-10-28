@@ -13,7 +13,12 @@ ogImage: "https://res.cloudinary.com/daewefkrz/image/upload/c_scale,w_418/v16865
 description: "Frequently using key bindings in Vim/Neovim"
 ---
 
-**Copy(yank) in vim**  
+## Table of contents
+
+## Basic
+
+### Copy(yank) in vim
+
 **yiw** - yank the current word  
 **yw** \- yank from the current cursor location to start of next word  
 **yb** - yank from current cursor location to the end of the previous word  
@@ -21,7 +26,8 @@ description: "Frequently using key bindings in Vim/Neovim"
 **4yy** - yank 4 lines (along with the newline character)  
 **y$** - yank from the current cursor location to the end of the line.
 
-**Cut in Vim**  
+### Cut in Vim
+
 **diw** - delete (cut) current word  
 **dw** \- delete (cut) from the current cursor location to the start of the next word  
 **db** - delete (cut) from the current cursor location to the end of the previous word  

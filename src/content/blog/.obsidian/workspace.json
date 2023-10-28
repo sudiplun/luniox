@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "717cb40cc75a1f77",
+        "id": "6f9d19280d2a7db9",
         "type": "tabs",
         "children": [
           {
-            "id": "bbb3f5098aff2758",
+            "id": "f04f76e36b3896d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQLbasicDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e7a3b229e1edc58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "laravelnstallation.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1e7185b5802679a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spotifyAdblock.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,8 +97,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "laravelnstallation.md",
-                "collapseAll": false,
+                "file": "SQLbasicDB.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "laravelnstallation.md",
+                "file": "SQLbasicDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "laravelnstallation.md"
+                "file": "SQLbasicDB.md"
               }
             }
           },
@@ -151,12 +151,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,21 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbb3f5098aff2758",
+  "active": "f04f76e36b3896d4",
   "lastOpenFiles": [
-    "xamppInstallLinux.md",
     "spotifyAdblock.md",
+    "pdfManupliate.md",
+    "nmcliPwd.md",
+    "SQLbasicDB.md",
+    "VimKey.md",
+    "xamppInstallLinux.md",
     "laravelnstallation.md",
+    "grubConfigF38.md",
+    "LinuxDailyApps.md",
+    "css_mini_course.md",
+    "changeFileFolderPermisson.md",
     "LAMP.md",
     "ifuse.md",
-    "LinuxApps.md",
-    "css_mini_course.md",
-    "changePermisson.md",
-    "nmcliPwd.md",
-    "pdfManupliate.md",
-    "VimKey.md",
-    "SQLbasicDB.md",
-    "grubConfigF38.md",
     "Untitled.canvas",
     "Hello.md",
     "Templates/blogMenu.md",

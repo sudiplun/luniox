@@ -1,17 +1,21 @@
 ---
-title: How to install xampp on Any Linux distro.
+title: Install xampp on Any Linux distro.
 author: Sudip Lun
 pubDatetime: 2023-06-23T08:36:14Z
 postSlug: install-xampp-linux
 ogImage: https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png
 featured: false
-draft: true
+draft: false
 tags:
   - web
   - development
   - php
 description: XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.
 ---
+
+## Table of contents
+
+## Installation
 
 <u>Step 1: </u> [Download from here ](https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/)
 
@@ -33,7 +37,7 @@ sudo ./xampp-linux*.run
 sudo /opt/lampp/lampp start
 ```
 
-by GUI
+## by GUI
 
 first navigate to
 
@@ -49,4 +53,15 @@ sudo ./manager-linux-x64.run
 
 ```bash
 sudo /opt/lampp/lampp stop
+```
+
+## Tips
+
+For sortcut used used alias
+Below line to end of .zshrc or .bashrc what shell you using
+&& you can customize stlampp/splampp as your wish
+
+```bash
+alias stlampp="sudo /opt/lampp/lampp start"
+alias splampp="sudo /opt/lampp/lampp stop"
 ```
