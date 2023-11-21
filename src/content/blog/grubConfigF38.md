@@ -1,5 +1,5 @@
 ---
-title: " how to implement your grub configuration file in the boot menu on fedora 38?"
+title: Implement your grub configuration file in the boot menu on fedora 38?
 author: Sudip Lun
 pubDatetime: 2023-09-18T22:18:25Z
 postSlug: fedora38-grub-config
