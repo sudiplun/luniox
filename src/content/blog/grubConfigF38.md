@@ -17,6 +17,8 @@ Using Fedora 38,I have found how to implement your `grub configuration` file in 
 sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
 
+[fedora doc](https://docs.fedoraproject.org/en-US/quick-docs/grub2-bootloader/#_setting_default_entry_for_grub2)
+
 here is my grub customize that is directly boot on fedora system on dual boot system with windows 11
 
 navigated to `/etc/default/grub`
