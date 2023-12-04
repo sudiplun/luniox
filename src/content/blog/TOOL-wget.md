@@ -3,9 +3,9 @@ title: wget tool to download whole site
 author: Sudip Lun
 pubDatetime: 2023-11-05T20:12:23Z
 postSlug: wget-tool
-ogImage:
-featured:
-draft:
+ogImage: ""
+featured: true
+draft: false
 tags:
   - bash
   - Linux

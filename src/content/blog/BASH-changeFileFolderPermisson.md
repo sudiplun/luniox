@@ -1,14 +1,14 @@
 ---
 author: Sudip Lun
 pubDatetime: 2023-06-13T15:22:00Z
-title: "Change file folder permission ownership in Linux"
+title: Change file folder permission ownership in Linux
 postSlug: ownership-permission
 featured: false
 draft: false
 tags:
   - Linux
 ogImage: ""
-description: "change file and folder permission & ownership on linux file system by using `chown` && `chmod`, when you are have to access regularly on root directory."
+description: change file and folder permission & ownership on linux file system by using `chown` && `chmod`, when you are have to access regularly on root directory.
 ---
 
 ## Change Directory Permission
