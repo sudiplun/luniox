@@ -1,16 +1,16 @@
 ---
-title: basic on pacman
+title: Basic on pacman
 author: Sudip Lun
 pubDatetime: 2023-12-03T15:42:23Z
 postSlug: pacman-basic-command
-ogImage: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Example_of_pacman_in_Arch_Linux_screenshot.png"
-## Table of contents
+ogImage: https://upload.wikimedia.org/wikipedia/commons/1/1a/Example_of_pacman_in_Arch_Linux_screenshot.png
 description: most basic pacman comand that fullfill for bigenner in Arch Linux
 draft: false
 tags:
   - bash
   - archLinux
   - Linux
+featured: true
 ---
 
 ## Table of contents
@@ -84,6 +84,20 @@ pacman -Qi package_name
 
 ```bash
 pacman -Q
+```
+
+## Orphaned Packages
+
+**List:**
+
+```bash
+pacman -Qdtq
+```
+
+**Remove**
+
+```bash
+sudo pacman -Rns $(pacman -Qdtq)
 ```
 
 ## Clean
