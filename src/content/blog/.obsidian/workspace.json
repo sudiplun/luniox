@@ -11,8 +11,12 @@
             "id": "70d23458b39092ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LinuxDailyApps.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "featured",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LinuxDailyApps.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LinuxDailyApps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LinuxDailyApps.md"
+              }
             }
           },
           {
@@ -151,19 +158,20 @@
   },
   "active": "70d23458b39092ef",
   "lastOpenFiles": [
-    "WEB-xamppInstallLinux.md",
+    "pdfManupliate.md",
+    "LinuxDailyApps.md",
     "spotifyAdblock.md",
+    "BOOT-grubConfigManjaro.md",
     "BOOT-grubConfigF38.md",
+    "TOOL-soffice.md",
+    "WEB-LAMP.md",
+    "WEB-laravelnstallation.md",
+    "WEB-xamppInstallLinux.md",
     "BASH-pacmanCS.md",
     "nmcliPwd.md",
-    "TOOL-soffice.md",
     "BASH-changeFileFolderPermisson.md",
     "TOOL-wget.md",
-    "pdfManupliate.md",
-    "WEB-laravelnstallation.md",
-    "WEB-LAMP.md",
     "WEB-css_mini_course.md",
-    "LinuxDailyApps.md",
     "BASH-findMove.md",
     "BASH-FileFolderManipulation.md",
     "TOOL-ifuse.md",

@@ -16,7 +16,7 @@ description: This are my favorite applications as well as most usefull list link
 
 - [neovim](https://github.com/neovim/neovim/releases/tag/stable)
 
-  Text Editor
+  Text Editor with astronvim
 
 - [DB Browser for sqlite](https://flathub.org/apps/org.sqlitebrowser.sqlitebrowser)
 
@@ -33,6 +33,8 @@ description: This are my favorite applications as well as most usefull list link
 - [JADX](https://github.com/skylot/jadx/releases/tag/v1.4.7)
 
   Dex to Java decompiler
+
+- Kommit
 
 ## Graphics
 
@@ -96,7 +98,16 @@ description: This are my favorite applications as well as most usefull list link
   flatpak install flathub fr.handbrake.ghb
   ```
 
-  Transcodes DVD, Bluray, and other media
+  Transcodes DVD, Bluray, and other
+
+- [Spotube](https://github.com/KRTirtho/spotube)
+   Open source Spotify client that doesn't require Premium nor uses Electron!
+
+
+
+```
+flatpak install flathub com.github.KRTirtho.Spotube
+```
 
 - [Spotify](https://flathub.org/apps/com.spotify.Client)
 
@@ -156,8 +167,10 @@ flatpak install flathub md.obsidian.Obsidian
 
   Password Manager with online store
 
-- KeepassXC
-  Password Manager with local DB and TOKP
+- [KeepassXC](https://keepassxc.org/download/#linux)
+
+  Password Manager with offline and TOTP
+
 - [Morgen](https://www.morgen.so/onboarding/download?first=luniox&email=luniox@gmail.com)
 
   Calendar and Tasks
@@ -183,6 +196,7 @@ flatpak install flathub md.obsidian.Obsidian
   ```
 
 - ranger
+  with vim navigation
 
   ```bash
   sudo dnf install ranger
@@ -205,6 +219,12 @@ flatpak install flathub md.obsidian.Obsidian
   ```
 
   Identify songs in seconds
+
+- [parabolic](https://github.com/NickvisionApps/Parabolic)
+
+```bash
+flatpak install flathub org.nickvision.tubeconverter
+```
 
 - [Youtube downloader plus](https://flathub.org/apps/io.github.aandrew_me.ytdn)
 
