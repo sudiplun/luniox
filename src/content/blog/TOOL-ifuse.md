@@ -1,5 +1,5 @@
 ---
-title: Mount iPhone on your linux machince
+title: Mount iPhone on your linux machine?
 author: Sudip Lun
 pubDatetime: 2023-06-26T14:27:00Z
 postSlug: mount-iPhone-on-linux
