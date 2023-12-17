@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d52edbbe6d917cb",
+        "id": "056d6857d478ff00",
         "type": "tabs",
         "children": [
           {
-            "id": "70d23458b39092ef",
+            "id": "262acbcc3eeaa2a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinuxDailyApps.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinuxDailyApps.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinuxDailyApps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LinuxDailyApps.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70d23458b39092ef",
+  "active": "262acbcc3eeaa2a2",
   "lastOpenFiles": [
-    "pdfManupliate.md",
     "LinuxDailyApps.md",
+    "FLATPAK- blurryFonts.md",
+    "pdfManupliate.md",
     "spotifyAdblock.md",
     "BOOT-grubConfigManjaro.md",
     "BOOT-grubConfigF38.md",
