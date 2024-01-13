@@ -4,7 +4,7 @@ author: Sudip Lun
 pubDatetime: 2023-06-05T14:12:23Z
 postSlug: usefull-apps-in-linux
 featured: false
-draft: false
+draft: true
 tags:
   - Linux
 description: This are my favorite applications as well as most usefull list link installation link.
@@ -102,8 +102,6 @@ description: This are my favorite applications as well as most usefull list link
 
 - [Spotube](https://github.com/KRTirtho/spotube)
    Open source Spotify client that doesn't require Premium nor uses Electron!
-
-
 
 ```
 flatpak install flathub com.github.KRTirtho.Spotube

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "056d6857d478ff00",
+        "id": "e1864dbe492be079",
         "type": "tabs",
         "children": [
           {
-            "id": "262acbcc3eeaa2a2",
+            "id": "993cd22a657b2210",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -127,7 +127,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -148,9 +150,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "262acbcc3eeaa2a2",
+  "active": "993cd22a657b2210",
   "lastOpenFiles": [
+    "TOOL-ifuse.md",
     "LinuxDailyApps.md",
+    "WEB-laravelnstallation.md",
+    "WEB-LAMP-ArchLinux.md",
+    "nmcliPwd.md",
+    "BASH-pacmanCS.md",
     "FLATPAK- blurryFonts.md",
     "pdfManupliate.md",
     "spotifyAdblock.md",
@@ -158,16 +165,12 @@
     "BOOT-grubConfigF38.md",
     "TOOL-soffice.md",
     "WEB-LAMP.md",
-    "WEB-laravelnstallation.md",
     "WEB-xamppInstallLinux.md",
-    "BASH-pacmanCS.md",
-    "nmcliPwd.md",
     "BASH-changeFileFolderPermisson.md",
     "TOOL-wget.md",
     "WEB-css_mini_course.md",
     "BASH-findMove.md",
     "BASH-FileFolderManipulation.md",
-    "TOOL-ifuse.md",
     "VIM-VimKey.md",
     "SQLbasicDB.md",
     "Untitled.canvas",
