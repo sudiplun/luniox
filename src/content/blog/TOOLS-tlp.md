@@ -3,7 +3,7 @@ title: tlp of conf for power-saving
 author: Sudip Lun
 pubDatetime: 2024-01-15T14:12:23Z
 postSlug: tlp-conf-powersaver
-ogImage:
+ogImage: https://static.linuxblog.io/wp-content/uploads/2023/11/tlp-stat-screenshot.png
 featured: true
 draft: false
 tags:
