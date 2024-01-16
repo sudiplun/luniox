@@ -9,6 +9,7 @@ draft: false
 tags:
   - Linux
   - tool
+description: TLP is a feature-rich command line utility for Linux, saving laptop battery power without the need to delve deeper into technical details.
 ---
 
 #### Long battery conf
