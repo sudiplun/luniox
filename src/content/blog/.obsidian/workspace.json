@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS-tlp.md",
+                "file": "BOOT-grubConfigF38.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS-tlp.md",
+                "file": "BOOT-grubConfigF38.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS-tlp.md",
+                "file": "BOOT-grubConfigF38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS-tlp.md"
+                "file": "BOOT-grubConfigF38.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "993cd22a657b2210",
   "lastOpenFiles": [
+    "FLATPAK- blurryFonts.md",
     "TOOLS-tlp.md",
     "TOOL-ifuse.md",
     "LinuxDailyApps.md",
@@ -167,7 +168,6 @@
     "WEB-LAMP-ArchLinux.md",
     "nmcliPwd.md",
     "BASH-pacmanCS.md",
-    "FLATPAK- blurryFonts.md",
     "pdfManupliate.md",
     "spotifyAdblock.md",
     "BOOT-grubConfigManjaro.md",
