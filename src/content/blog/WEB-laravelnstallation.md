@@ -4,7 +4,7 @@ author: Sudip Lun
 pubDatetime: 2023-10-04T14:12:23Z
 postSlug: install-laravel-on-linux
 ogImage: https://laravel.com/img/logotype.min.svg
-featured: true
+featured: false
 draft: false
 tags:
   - Web
