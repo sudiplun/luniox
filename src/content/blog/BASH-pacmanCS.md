@@ -4,7 +4,7 @@ author: Sudip Lun
 pubDatetime: 2023-12-03T15:42:23Z
 postSlug: pacman-basic-command
 ogImage: https://upload.wikimedia.org/wikipedia/commons/1/1a/Example_of_pacman_in_Arch_Linux_screenshot.png
-description: most basic pacman comand that fullfill for bigenner in Arch Linux
+description: most basic pacman command that fulfill for bigenner in Arch Linux
 draft: false
 tags:
   - bash
@@ -84,6 +84,8 @@ pacman -Qi package_name
 
 ```bash
 pacman -Q
+pacman -Qn
+pacman -Qm
 ```
 
 ## Orphaned Packages

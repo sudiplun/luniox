@@ -2,12 +2,12 @@
 title: Daily use Apps in Linux
 author: Sudip Lun
 pubDatetime: 2023-06-05T14:12:23Z
-postSlug: usefull-apps-in-linux
+postSlug: useful-apps-in-linux
 featured: false
 draft: true
 tags:
   - Linux
-description: This are my favorite applications as well as most usefull list link installation link.
+description: This are my favorite applications as well as most useful list link installation link.
 ---
 
 ## Table of Contents

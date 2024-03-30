@@ -14,6 +14,8 @@ description: TLP is a feature-rich command line utility for Linux, saving laptop
 
 #### Long battery conf
 
+This greatly works on Dell Vostro series laptop without GPU.
+
 ```bash
 TLP_ENABLE=1
 TLP_PERSISTENT_DEFAULT=0
