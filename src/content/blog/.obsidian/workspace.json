@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOOT-grubConfigF38.md",
+                "file": "WEB-Lamp-Arch.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0655edfaf96dcf8f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BOOT-grubConfigF38.md",
+                "file": "WEB-Lamp-Arch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BOOT-grubConfigF38.md",
+                "file": "WEB-Lamp-Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BOOT-grubConfigF38.md"
+                "file": "WEB-Lamp-Arch.md"
               }
             }
           },
@@ -160,34 +161,35 @@
   },
   "active": "993cd22a657b2210",
   "lastOpenFiles": [
-    "FLATPAK- blurryFonts.md",
+    "WEB-laravelnstallation.md",
+    "WEB-Lamp-Arch.md",
+    "WEB-LAMP.md",
+    "VIM-VimKey.md",
     "TOOLS-tlp.md",
+    "mazil.md",
+    "BOOT-grubConfigF38.md",
+    "FLATPAK- blurryFonts.md",
     "TOOL-ifuse.md",
     "LinuxDailyApps.md",
-    "WEB-laravelnstallation.md",
     "WEB-LAMP-ArchLinux.md",
     "nmcliPwd.md",
     "BASH-pacmanCS.md",
     "pdfManupliate.md",
     "spotifyAdblock.md",
     "BOOT-grubConfigManjaro.md",
-    "BOOT-grubConfigF38.md",
     "TOOL-soffice.md",
-    "WEB-LAMP.md",
     "WEB-xamppInstallLinux.md",
     "BASH-changeFileFolderPermisson.md",
     "TOOL-wget.md",
     "WEB-css_mini_course.md",
     "BASH-findMove.md",
     "BASH-FileFolderManipulation.md",
-    "VIM-VimKey.md",
     "SQLbasicDB.md",
     "Untitled.canvas",
     "Hello.md",
     "Templates/blogMenu.md",
     "Templates/blogMenu.txt",
     "Templates",
-    "Templates/blogMenu",
-    "Templates/blog.md"
+    "Templates/blogMenu"
   ]
 }
