@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63347a7deb32da0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WEB-Lamp-Arch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0655edfaf96dcf8f",
@@ -159,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "993cd22a657b2210",
+  "active": "63347a7deb32da0d",
   "lastOpenFiles": [
-    "WEB-laravelnstallation.md",
+    "extract image metadata.md",
+    "BASH-findMove.md",
     "WEB-Lamp-Arch.md",
+    "WEB-laravelnstallation.md",
     "WEB-LAMP.md",
     "VIM-VimKey.md",
     "TOOLS-tlp.md",
@@ -182,12 +196,10 @@
     "BASH-changeFileFolderPermisson.md",
     "TOOL-wget.md",
     "WEB-css_mini_course.md",
-    "BASH-findMove.md",
     "BASH-FileFolderManipulation.md",
     "SQLbasicDB.md",
     "Untitled.canvas",
     "Hello.md",
-    "Templates/blogMenu.md",
     "Templates/blogMenu.txt",
     "Templates",
     "Templates/blogMenu"
