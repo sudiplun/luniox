@@ -332,7 +332,7 @@ SSLRandomSeed connect builtin
 </IfModule>
 # custom add
 LoadModule php_module modules/libphp.so
-AddHandler php-script.php
+AddHandler php-script .php
 Include conf/extra/php_module.conf
 Include conf/extra/phpmyadmin.conf
 
