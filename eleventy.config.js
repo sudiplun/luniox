@@ -63,11 +63,11 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			title: "luniox",
+			subtitle: "welcome to sys tools blog.",
+			base: "https://luniox.netlify.app",
 			author: {
-				name: "Your Name"
+				name: "Sudip Lun"
 			}
 		}
 	});
