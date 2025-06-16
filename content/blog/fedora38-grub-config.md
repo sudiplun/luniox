@@ -2,7 +2,7 @@
 title: Implement your grub configuration file in the boot menu on fedora 38?
 description: grub menu update on Fedora Linux
 date: 2023-09-18
-tags: Linux
+tags: "system"
 ---
 
 Using Fedora 38,I have found how to implement your `grub configuration` file in the `boot menu` by the following not `grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg.`

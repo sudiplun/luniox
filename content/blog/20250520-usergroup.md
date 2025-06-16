@@ -24,12 +24,12 @@ adduser username # Create a new user (Debian-based systems)
 usermod -l newname oldname # Rename a user account
 usermod -d /new/home username # Change a user's home directory
 usermod -aG `sudo` username # Add a user to the sudo (admin) group
-deluser username # Delete a user (Debian-based systems)
 userdel -r username # Delete a user and remove their home directory
 useradd -m username # Create a new user and create a home directory
 passwd username # Set or change a user's password
 chage -l username # Show password expiration info for a user
 chage -E 2029-6-30 # Set account expiration date for a user
+deluser username # Delete a user (Debian-based systems)
 ```
 
 ---
@@ -42,6 +42,7 @@ gpasswd -d username groupname # Remove a user from a group
 groups username # Show groups a user belongs to
 id username # Display user's UID, GID, and groups
 newgrp groupname # Switch to a different group
+groupmod -n new_name current_name #change the name of existing group name
 ```
 ---
 ### Managing User Permissions & Ownership
