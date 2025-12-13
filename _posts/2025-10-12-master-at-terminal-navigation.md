@@ -2,7 +2,7 @@
 layout: post
 title: "Mastering at naviation on terminal"
 date: 2025-10-12 11:28 +0545
-categories: ["linux"]
+categories: ["terminal"]
 tags: ["cli"]
 author: sudiplun
 excerpt:

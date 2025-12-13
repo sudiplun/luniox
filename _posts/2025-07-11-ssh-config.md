@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Simplify Your SSH Workflow with the ssh config' 
+title: "Simplify Your SSH Workflow with the ssh config"
 date: 2025-07-11 11:18 +0545
-categories: ['ssh', 'linux']
-tags: ['ssh']
+categories: ["config"]
+tags: ["ssh"]
 author: sudiplun
 excerpt: Learn how to use the SSH config file to create shortcuts for your remote connections and manage SSH keys for services like GitHub, reducing repetitive commands.
 ---
@@ -55,4 +55,3 @@ Host github.com
 ```
 
 After setting this up, you no longer need to manually add the key to the agent for Git operations; SSH will handle it automatically.
-

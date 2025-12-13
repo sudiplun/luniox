@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Monitoring the server and database with prometheus."
-date: 2025-11-26 11:28 +0545
+date: 2025-12-02 14:28 +0545
 categories: ["Monitoring"]
-tags: ["db, prometheus"]
+tags: ["grafana", "prometheus"]
 author: sudiplun
 excerpt:
 ---
 
-**litte sotry in short**
+**litte story in short**
 Have Monitoring the any system with any tool?
 Alright, cool..! as in title _Prometheus_ is open-source monitoring and alerting tool that collect data and stores metric as time-series data.
 How did the prometheus gets host data or specific server ? That's where the exporter comes into play.
