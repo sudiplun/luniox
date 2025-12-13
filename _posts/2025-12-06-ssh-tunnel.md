@@ -3,7 +3,7 @@ layout: post
 title: "SSH Tunnels - scenarios bases"
 date: 2025-12-06 12:28 +0545
 categories: ["ssh"]
-tags: []
+tags: ["cli"]
 author: sudiplun
 excerpt:
 ---
