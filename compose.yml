@@ -2,6 +2,6 @@ services:
   blog:
     container_name: luniox
     build: .
-    image: luniox:prod
+		image: luniox:${BUILD_TAG:-latest}
     ports:
       - "8081:80"

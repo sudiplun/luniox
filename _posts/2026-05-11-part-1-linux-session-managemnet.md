@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intro to linux session"
+title: "Introduction to linux session"
 date: 2026-05-11 12:28 +0545
 categories: ["linux"]
 tags: ["sessions"]
